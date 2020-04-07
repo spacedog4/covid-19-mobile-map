@@ -4,8 +4,6 @@ import axios from 'axios';
 import moment from 'moment';
 import * as countries from "i18n-iso-countries";
 import sort from 'fast-sort';
-// import { Flags } from 'country-flag-icons/react/3x2'
-import { countries as countryFlags, hasFlag } from 'country-flag-icons'
 
 import { StyleSheet, Text, View, Image, ScrollView, Dimensions, FlatList, PickerIOSItem } from 'react-native';
 import { SearchBar } from 'react-native-elements'

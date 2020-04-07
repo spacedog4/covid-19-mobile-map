@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
-    "country-flag-icons": "^1.2.0",
     "expo": "~37.0.3",
     "expo-constants": "~9.0.0",
     "fast-sort": "^2.1.1",
