@@ -10,7 +10,8 @@ https://rapidapi.com/pillious/api/WHO%20Covid-19%20data
 Ex.: http://www.geognos.com/api/en/countries/flag/BR.png
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/19805404/78698975-7edefa00-78d9-11ea-97a5-5b9383946256.jpeg" width="200">
+<img src="https://user-images.githubusercontent.com/19805404/79092541-99750100-7d27-11ea-9a11-f6197539b692.jpeg" width="200">
+<img src="https://user-images.githubusercontent.com/19805404/79092544-9a0d9780-7d27-11ea-82c4-dde93c4ec4c4.jpeg" width="200">
 
 ## Bibilhotecas utilizadas
 - **i18n-iso-countries** - a API da WHO não retorna o código do pais, e nem o nome em português, utilizei essa biblioteca para encontrar tanto o código alphanumérico de dois digitos quanto para encontrar a tradução em português do Brasil ou Portugal
