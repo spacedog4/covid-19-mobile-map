@@ -8,7 +8,7 @@ const styles = StyleSheet.create({
   },
   mapStyle: {
     width: Dimensions.get('window').width,
-    height: Dimensions.get('window').height + 40,
+    height: Dimensions.get('window').height,
   },
 })
 
